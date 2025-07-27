@@ -1,5 +1,3 @@
-You can copy and paste this into a file named README.md in the root of your GitHub Codespace project:
-
 🛡 Automated Safety Requirement Analysis using RAG & Generative AI
 This project uses Retrieval-Augmented Generation (RAG) and a multi-agent architecture to analyze safety-critical system descriptions against predefined safety requirements. It leverages Google Gemini (Generative AI), FAISS vector search, and Python to automate compliance checks in domains like robotics, automotive, or industrial automation.
 

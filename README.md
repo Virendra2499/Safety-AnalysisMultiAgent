@@ -91,5 +91,3 @@ Integration with safety standards like ISO 26262 or IEC 61508
 PDF/PPTX report export
 
 📬 Feel free to fork, experiment, or extend!
-
-Let me know if you'd like me to save this as a file again so you can download or move it into your GitHub Codespace directly.
